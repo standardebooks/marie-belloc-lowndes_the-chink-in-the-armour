@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/marie-belloc-lowndes/the-chink-in-the-armour</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-08-19T16:41:30Z</dc:date>
+		<meta property="dcterms:modified">2026-08-19T16:41:30Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -35,16 +35,16 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<meta property="schema:abstract">A beautiful young widow learns the dangers of gambling and mysteries of love and friendship on a long vacation to a suburb of Paris.</meta>
+		<meta property="schema:abstract">A beautiful young widow learns the dangers of gambling and the mysteries of love and friendship on a long vacation in suburban Paris.</meta>
 		<dc:description>
-			&lt;p&gt;Sylvia Bailey, a beautiful young widow, and her friend Anna visit a fortune-teller in Paris and receive ominous warnings: for Anna, that she will have an incredible streak of fortune at gambling but shortly lose her life, and for Sylvia that she will meet a great lover but somehow be strangled by her beloved pearl necklace, a piece of exceedingly great value purchased against her lawyer’s advice with much of the wealth her late husband bequeathed her. The fortuneteller implores them not to leave Paris soon and certainly not together, but, ignoring the advice, they make their way to the picturesque town of Lacville. There, they set about playing baccarat and making friends with local characters, until a mysterious disappearance raises uneasy questions.&lt;/p&gt;
-			&lt;p&gt;This hair-raising mystery is the first of &lt;a href="https://standardebooks.org/ebooks/marie-belloc-lowndes"&gt;Marie Belloc Lowndes’s novels&lt;/a&gt; to have been adapted to the screen, and it showcases her understanding of the inner life of women, the mindset of the gambler and the discomforting experience of a silent haunting.&lt;/p&gt;
+			&lt;p&gt;Sylvia Bailey, a beautiful young widow, and her friend Anna visit a fortune teller in Paris and receive ominous warnings: for Anna, that she’ll have an incredible streak of fortune at gambling but shortly lose her life, and for Sylvia that she’ll meet a great lover but somehow be strangled by her beloved pearl necklace, a piece of exceedingly great value purchased against her lawyer’s advice with much of the wealth her late husband bequeathed her. The fortune teller implores them not to leave Paris soon, and certainly not together, but, ignoring the advice, they make their way to the picturesque town of Lacville. There, they set about playing baccarat and making friends with the local characters—until a mysterious disappearance raises uneasy questions.&lt;/p&gt;
+			&lt;p&gt;This hair-raising mystery is the first of &lt;a href="https://standardebooks.org/ebooks/marie-belloc-lowndes"&gt;Marie Belloc Lowndes’s&lt;/a&gt; novels to have been adapted to the screen, and it showcases her understanding of the inner life of women, the mindset of the gambler, and the discomforting experience of a silent haunting.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16677</dc:source>
 		<dc:source>https://archive.org/details/chinkinarmour00lown</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">87834</meta>
+		<meta property="schema:educationalLevel">71.95</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Chink_in_the_Armour" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -79,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
